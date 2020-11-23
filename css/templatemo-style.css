@@ -139,6 +139,10 @@ section {
   height: 390px;
 }
 
+.pb-1 {
+  padding-bottom: 15px;
+}
+
 /*---------------------------------------
      BUTTONS               
   -----------------------------------------*/
@@ -575,7 +579,7 @@ section {
 
 .menu-thumb .menu-info {
   position: absolute;
-  top: 60%;
+  top: 50%;
   left: 0px;
   right: 0px;
   bottom: 0px;
