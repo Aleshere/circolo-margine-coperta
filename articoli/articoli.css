@@ -1,0 +1,15 @@
+.custom-navbar .nav li a {
+  color: black;
+}
+
+.custom-navbar .navbar-brand {
+  color: black;
+}
+
+p {
+  font-size: 18px;
+}
+
+section {
+  padding: 150px 0;
+}
