@@ -64,8 +64,7 @@
   // CONTACT FORM
   $('#contact-form').submit(function (e) {
     $('.text-success').fadeIn(1000);
-  },
-
+  });
 
   // SMOOTHSCROLL
   $(function () {
